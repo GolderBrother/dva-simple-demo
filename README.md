@@ -27,8 +27,12 @@ $ npm start
 ```
 
 If success, app will be open in your default browser automatically.
+http://localhost:8000/#/users
 
 ### 参考链接
  - [umijs](https://umijs.org/zh/guide/)
  - [dva](https://dvajs.com/guide/)
  - [12 步 30 分钟，完成用户管理的 CURD 应用 ](https://github.com/sorrycc/blog/issues/18)
+
+ ### 备注
+> 这只是一个简单版的demo，仅供参考文件结构的定义
